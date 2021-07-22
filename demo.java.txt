@@ -7,3 +7,8 @@ public void do process
 {
 //Logic goes here
 }
+
+public void donot process
+{
+//Logic goes here
+}
